@@ -65,7 +65,7 @@
 4. 依序選取各個 address 。
 5. 將選取的十六進位 address 轉成二進位：
 
-        HextoBinary(address[i])
+        string HextoBinary(address[i])
 
     * 此 function 會再呼叫：
 
